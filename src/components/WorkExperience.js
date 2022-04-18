@@ -1,29 +1,16 @@
+import Job from "./Job";
+
 const WorkExperience = () => {
+    const role = [
+        { first: "Built and maintained several websites and blogs", second: "Was tasked with managing all our social media pages" },
+        { first: "Worked as a Sales Rep in the field", second: "Came up with various strategies to boost sales" }
+    ]
     return ( 
         <>
-        <h2>Work Experience</h2>
+        <h2 style={{ paddingLeft:10 }}>Work Experience</h2>
         <div className="work">
-            
-            <div>     
-                <h5>Web Designer</h5>
-                <p>Midaspage and Company</p>
-                <p>March 2019 - Dec 2021</p>
-                <ul>
-                    <li>Built and maintained several websites and blogs</li>
-                    <li>Was tasked with managing all our social media pages</li>
-                </ul>
-            </div>
-
-            <div>     
-                <h5>Sales Executive</h5>
-                <p>TD Africa</p>
-                <p>Jan 2017 - Feb 2019</p>
-                <ul>
-                    <li>Worked as a Sales Rep in the field</li>
-                    <li>Came up with various strategies to boost sales</li>
-                </ul>
-            </div>
-
+            <Job title="Web Designer" company="Midaspage International" date="March 2019 - Dec 2021" role={role[0]} />
+            <Job title="Sales Executive" company="TD Africa" date="Jan 2017 - Feb 2019" role={role[1]}/>
         </div>
         </>
      );
