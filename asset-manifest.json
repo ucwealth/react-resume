@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ucwealth/react-resume/static/css/main.f2c83d4b.css",
-    "main.js": "/ucwealth/react-resume/static/js/main.40c2a199.js",
-    "static/media/face.png": "/ucwealth/react-resume/static/media/face.ed11ce2bd954ca6acef8.png",
-    "index.html": "/ucwealth/react-resume/index.html",
-    "main.f2c83d4b.css.map": "/ucwealth/react-resume/static/css/main.f2c83d4b.css.map",
-    "main.40c2a199.js.map": "/ucwealth/react-resume/static/js/main.40c2a199.js.map"
+    "main.css": "/react-resume/static/css/main.f2c83d4b.css",
+    "main.js": "/react-resume/static/js/main.a1e7605e.js",
+    "static/media/face.png": "/react-resume/static/media/face.ed11ce2bd954ca6acef8.png",
+    "index.html": "/react-resume/index.html",
+    "main.f2c83d4b.css.map": "/react-resume/static/css/main.f2c83d4b.css.map",
+    "main.a1e7605e.js.map": "/react-resume/static/js/main.a1e7605e.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c83d4b.css",
-    "static/js/main.40c2a199.js"
+    "static/js/main.a1e7605e.js"
   ]
 }
