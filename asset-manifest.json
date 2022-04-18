@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ucwealth/react-resume/blob/main/public/index.html/static/css/main.f2c83d4b.css",
+    "main.js": "/ucwealth/react-resume/blob/main/public/index.html/static/js/main.630d068c.js",
+    "static/media/face.png": "/ucwealth/react-resume/blob/main/public/index.html/static/media/face.ed11ce2bd954ca6acef8.png",
+    "index.html": "/ucwealth/react-resume/blob/main/public/index.html/index.html",
+    "main.f2c83d4b.css.map": "/ucwealth/react-resume/blob/main/public/index.html/static/css/main.f2c83d4b.css.map",
+    "main.630d068c.js.map": "/ucwealth/react-resume/blob/main/public/index.html/static/js/main.630d068c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c83d4b.css",
+    "static/js/main.630d068c.js"
+  ]
+}
