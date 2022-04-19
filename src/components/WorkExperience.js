@@ -7,7 +7,7 @@ const WorkExperience = () => {
     ]
     return ( 
         <>
-        <h2 style={{ paddingLeft:10 }}>Work Experience</h2>
+        <h2 style={{ textAlign: "center" }}>Work Experience</h2>
         <div className="work">
             <Job title="Web Designer" company="Midaspage International" date="March 2019 - Dec 2021" role={role[0]} />
             <Job title="Sales Executive" company="TD Africa" date="Jan 2017 - Feb 2019" role={role[1]}/>

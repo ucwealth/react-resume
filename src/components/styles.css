@@ -1,6 +1,7 @@
 .container {
     width: 65%;
     margin: 0 auto;
+    /* background-color: #E6E6FA; */
 }
 .top-info {
     background-color: #493F3A;
@@ -30,42 +31,41 @@
 img {
     border-radius: 50%;
 }
-h2 {
+h3, h2 {
     color: #4F3A2F; 
 }
 .edu {
-    margin: 0 auto;
+    margin-top: 10px;
     border: 1px solid #d3d3d3;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
+    background-color: #fff;
 }
 .skills {
-    margin: 0 auto;
     border: 1px solid #d3d3d3;
     border-radius: 0 0 10px 10px;
     padding: 20px;
+    background-color: #fff;
 }
 .work {
-    margin: 0 auto;
     border: 1px solid #d3d3d3;
     border-radius: 10px;
     padding: 20px;
     display: flex;
     justify-content: space-evenly;
+    background-color: #fff;
 }
 .skills:hover {
-    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.2);
-    border-color: #493F3A;
-    border-radius: 10px;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.2);
+    /* border-radius: 10px; */
   }
 .work:hover {
-    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.2);
-    border-color: #493F3A;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.2);
   }
 .edu:hover {
-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.2);
-border-color: #493F3A;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.2);
+/* border-color: #493F3A; */
 }
 
 ul  {
